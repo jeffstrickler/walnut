@@ -1,0 +1,223 @@
+{'timestamp': 2013-08-12 16:52:59,566, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-12 16:53:03,432, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-12 16:59:46,267, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,270, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,271, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,272, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,274, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,275, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,276, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,279, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,282, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,283, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,286, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 16:59:46,290, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,292, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 16:59:46,294, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:00:22,938, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,941, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,942, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,943, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,944, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,945, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,946, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,948, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,949, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,950, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,952, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:00:22,954, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,955, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:00:22,957, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:00:25,294, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,297, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,299, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,300, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,301, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,302, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,303, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,305, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,306, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,307, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,309, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:00:25,311, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,312, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,314, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:00:25,317, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,319, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,320, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,321, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,322, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,323, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,324, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,326, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,329, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,331, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,333, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:00:25,335, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,337, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:00:25,340, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:01:42,450, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,452, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,453, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,454, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,456, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,457, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,459, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,460, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,462, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,463, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,465, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:01:42,467, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,468, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,470, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:01:42,473, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,475, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,476, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,477, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,478, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,479, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,480, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,481, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,482, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,483, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,486, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:01:42,489, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,491, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:01:42,493, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:02:17,365, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,369, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,370, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,372, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,373, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,374, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,375, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,377, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,379, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,380, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,382, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:02:17,384, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,386, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,388, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,391, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,393, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,394, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,395, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,396, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,398, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,400, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,401, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:02:17,403, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:02:17,406, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:02:39,015, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-12 17:02:41,426, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,428, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,430, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,431, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,433, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,434, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,436, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,439, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,441, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,443, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,446, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:02:41,449, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,451, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,452, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,453, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,455, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,456, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,457, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,459, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,461, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,462, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,463, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:02:41,465, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:02:41,466, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:03:15,802, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:03:23,941, 'loglevel' : INFO CountHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,634, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,638, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,640, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,641, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,643, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,644, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,645, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,646, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,647, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,649, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,651, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:04:08,653, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,655, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,656, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,658, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,660, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,661, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,663, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,664, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,665, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,666, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,667, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-12 17:04:08,669, 'loglevel' : INFO (OperationalError) FATAL:  database "my_database_name" does not exist
+ None None }
+{'timestamp': 2013-08-12 17:04:08,671, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,358, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,362, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,364, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,365, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,366, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,368, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,369, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,371, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,372, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,373, 'loglevel' : INFO CountHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,374, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,376, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,378, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,379, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,381, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,383, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,385, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,387, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,389, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,391, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,393, 'loglevel' : INFO CountHandler:get() }
+{'timestamp': 2013-08-12 17:05:07,396, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,206, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,209, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,211, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,212, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,213, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,215, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,216, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,217, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,218, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,220, 'loglevel' : INFO CountHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,221, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,223, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,224, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,225, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,227, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,228, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,230, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,231, 'loglevel' : INFO AddHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,232, 'loglevel' : INFO AllHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,234, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,237, 'loglevel' : INFO CountHandler:get() }
+{'timestamp': 2013-08-12 17:05:20,239, 'loglevel' : INFO ExistsHandler:get() }

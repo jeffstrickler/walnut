@@ -1,0 +1,5 @@
+SQLAlchemy==0.8.2
+datrie==0.6
+nose2==0.4.6
+psycopg2==2.5.1
+tornado==2.2.1
