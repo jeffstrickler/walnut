@@ -24,10 +24,10 @@ This proof-of-concept type application used Tornado Framework, SQL Alchemy, and 
 How to Fork Successfully
 Here's a list of things you might want to consider, if you intend to use this as an example for your own projects:
 
-[] This app contains no security
-[] It uses a simplistic hard-coded User model and works only with usernames. If you want to work with some other attribute, like first name or email address, you'll have to modify it.
-[] It uses a simplistic load mechanism, essentially "select * from users;" when http://<host>:7777/load is invoked. Using the metrics from https://pypi.python.org/pypi/datrie/, 100K entries consumes 5MB of ram, so you'll probably not be memory bound. But, if you have 100K users in your users table, it may be a slow load. YMMV.
-[] This implementation uses BaseTrie and only cares about the keys of the trie, not the actual values in each node. If you wanted to use this as a general purpose session cache, for example, you'd need to change the underlying trie implementation from BaseTrie to Trie and then insert the appropriate objects into nodes.
-[] This app makes no effort to persist its data or recover in the case of crash. If it dies, you'll have to reload your data somehow.
-[] Run the test scripts like: "python -m unittest TestSuite" so that you understand how to invoke it.
+ -- This app contains no security
+ -- It uses a simplistic hard-coded User model and works only with usernames. If you want to work with some other attribute, like first name or email address, you'll have to modify it.
+ -- It uses a simplistic load mechanism, essentially "select * from users;" when http://<host>:7777/load is invoked. Using the metrics from https://pypi.python.org/pypi/datrie/, 100K entries consumes 5MB of ram, so you'll probably not be memory bound. But, if you have 100K users in your users table, it may be a slow load. YMMV.
+ -- This implementation uses BaseTrie and only cares about the keys of the trie, not the actual values in each node. If you wanted to use this as a general purpose session cache, for example, you'd need to change the underlying trie implementation from BaseTrie to Trie and then insert the appropriate objects into nodes.
+ -- This app makes no effort to persist its data or recover in the case of crash. If it dies, you'll have to reload your data somehow.
+ -- Run the test scripts like: "python -m unittest TestSuite" so that you understand how to invoke it.
 
