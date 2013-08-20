@@ -24,8 +24,9 @@ class LoadHandler(BaseHandler):
     def get(self):
         logger.info("LoadHandler:get()")
         users = self.application.persistence.query_all(User)
-        for user in users:
-            self.application.trie[user.username] = 0
+        if users:
+            for user in users:
+                self.application.trie[user.username] = 0
         self.set_status(200)
         self.write(json.dumps(len(self.application.trie)))
         self.finish()
@@ -81,7 +82,8 @@ class ExistsHandler(BaseHandler):
     def get(self, key):
         logger.info("ExistsHandler:get()")
         self.set_status(200)
-        self.write(json.dumps(key in self.application.trie))
+        #self.set_header("Content-Type", "application/json")
+        self.write({json.dumps(key in self.application.trie)})
         self.finish()
 
     def post(self,key):
@@ -92,7 +94,11 @@ class ExistsHandler(BaseHandler):
 class ContainsHandler(BaseHandler):
     def get(self, key):
         logger.info("ContainsHandler:get()")
+        self.set_header("Content-Type", "application/json")
         self.set_status(200)
+
+
+        #self.write(json.dumps({'contains':self.application.trie.keys(key)}))
         self.write(json.dumps(self.application.trie.keys(key)))
         self.finish()
 

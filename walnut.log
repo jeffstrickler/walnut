@@ -221,3 +221,120 @@
 {'timestamp': 2013-08-12 17:05:20,234, 'loglevel' : INFO ContainsHandler:get() }
 {'timestamp': 2013-08-12 17:05:20,237, 'loglevel' : INFO CountHandler:get() }
 {'timestamp': 2013-08-12 17:05:20,239, 'loglevel' : INFO ExistsHandler:get() }
+{'timestamp': 2013-08-13 13:29:38,805, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-13 13:29:55,668, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 20:29:30,700, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 21:21:38,447, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 21:21:52,616, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:28:54,197, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:30:04,949, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:30:41,269, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:31:13,527, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:38:21,708, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 21:38:33,908, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:41:19,035, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 21:43:21,359, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 21:43:37,593, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:43:39,764, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:43:42,076, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:43:48,809, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 21:43:53,704, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:44:12,631, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:45:13,502, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:46:59,508, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:48:34,022, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:48:37,714, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:49:03,228, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:49:05,134, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:51:01,629, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:51:25,064, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:55:23,769, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:55:27,449, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:55:29,620, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:57:14,615, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:57:25,260, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 21:59:24,161, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 21:59:41,222, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 21:59:50,324, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:01:22,357, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:02:57,154, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:04:11,944, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:04:28,725, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:04:37,216, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:05:26,480, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:05:34,973, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:06:02,256, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:06:05,578, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:06:07,786, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:06:15,548, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:06:21,241, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:06:23,277, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:07:22,833, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:07:29,684, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:08:11,756, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:08:17,243, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 22:08:21,689, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:09:01,042, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:13:49,762, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:13:55,017, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:14:00,651, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 22:14:04,304, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:14:21,201, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:14:22,798, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:14:27,898, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 22:14:31,554, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:15:19,440, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:15:23,540, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:15:29,817, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 22:15:37,256, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:20:59,374, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:21:07,400, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 22:21:13,690, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:22:28,916, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:22:37,280, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 22:22:40,731, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:23:05,941, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:23:12,839, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 22:23:29,965, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:23:45,185, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:23:51,731, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 22:23:54,650, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:24:39,428, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:24:52,189, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:25:07,914, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 22:25:11,121, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:25:55,964, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:26:19,574, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 22:26:22,669, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:27:02,725, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:27:21,965, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:27:30,983, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:27:53,869, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:29:08,709, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-14 22:29:11,256, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:29:16,214, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-14 22:29:20,101, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:29:50,772, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:30:09,138, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:33:05,622, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-14 22:35:44,554, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-15 15:42:26,772, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-15 15:42:56,068, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-15 15:42:59,387, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-15 15:44:25,647, 'loglevel' : INFO ContainsHandler:get() }
+{'timestamp': 2013-08-20 09:18:46,567, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-20 09:21:01,992, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-20 09:21:02,009, 'loglevel' : INFO (ProgrammingError) column users.last_modified does not exist
+LINE 1: ...users_username, users.password AS users_password, users.last...
+                                                             ^
+ 'SELECT users.id AS users_id, users.first_name AS users_first_name, users.last_name AS users_last_name, users.email AS users_email, users.username AS users_username, users.password AS users_password, users.last_modified AS users_last_modified, users.created AS users_created \nFROM users' {} }
+{'timestamp': 2013-08-20 09:26:06,692, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-20 09:26:06,693, 'loglevel' : INFO (InternalError) current transaction is aborted, commands ignored until end of transaction block
+ 'SELECT users.id AS users_id, users.first_name AS users_first_name, users.last_name AS users_last_name, users.email AS users_email, users.username AS users_username, users.password AS users_password, users.last_modified AS users_last_modified, users.created AS users_created \nFROM users' {} }
+{'timestamp': 2013-08-20 09:28:42,557, 'loglevel' : INFO Application started }
+{'timestamp': 2013-08-20 09:28:45,555, 'loglevel' : INFO LoadHandler:get() }
+{'timestamp': 2013-08-20 09:28:45,566, 'loglevel' : INFO (ProgrammingError) column users.last_modified does not exist
+LINE 1: ...users_username, users.password AS users_password, users.last...
+                                                             ^
+ 'SELECT users.id AS users_id, users.first_name AS users_first_name, users.last_name AS users_last_name, users.email AS users_email, users.username AS users_username, users.password AS users_password, users.last_modified AS users_last_modified, users.created AS users_created \nFROM users' {} }
+{'timestamp': 2013-08-20 09:43:41,117, 'loglevel' : INFO Application started }
