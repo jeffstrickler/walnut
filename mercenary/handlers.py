@@ -19,8 +19,9 @@ class BaseHandler(tornado.web.RequestHandler):
         return None
 
 
-""" trivial example to show loading the trie from a database """
+
 class LoadHandler(BaseHandler):
+    """ trivial example to show loading the trie from a database """
     def get(self):
         logger.info("LoadHandler:get()")
         users = self.application.persistence.query_all(User)
@@ -40,8 +41,9 @@ class LoadHandler(BaseHandler):
         self.write(json.dumps(len(self.application.trie)))
         self.finish()
 
-""" Add an item to the trie """
+
 class AddHandler(BaseHandler):
+    """ Add an item to the trie """
     def get(self, key):
         logger.info("AddHandler:get()")
         self.application.trie[key] = 0
@@ -54,8 +56,9 @@ class AddHandler(BaseHandler):
         self.set_status(200)
         self.finish()
 
-""" Get the current number of items in the trie """
+
 class CountHandler(BaseHandler):
+    """ Get the current number of items in the trie """
     def get(self):
         logger.info("CountHandler:get()")
         self.set_status(200)
@@ -65,8 +68,9 @@ class CountHandler(BaseHandler):
     def post(self,key):
         pass
 
-""" get a list of all keys in the trie """
+
 class AllHandler(BaseHandler):
+    """ get a list of all keys in the trie """
     def get(self):
         logger.info("AllHandler:get()")
         self.set_status(200)
@@ -77,8 +81,9 @@ class AllHandler(BaseHandler):
         pass
 
 
-""" Does the received key exist in the trie? """
+
 class ExistsHandler(BaseHandler):
+    """ Does the received key exist in the trie? """
     def get(self, key):
         logger.info("ExistsHandler:get()")
         self.set_status(200)
@@ -90,8 +95,8 @@ class ExistsHandler(BaseHandler):
         pass
 
 
-""" Return a list of keys that match the received prefix """
 class ContainsHandler(BaseHandler):
+    """ Return a list of keys that match the received prefix """
     def get(self, key):
         logger.info("ContainsHandler:get()")
         self.set_header("Content-Type", "application/json")
