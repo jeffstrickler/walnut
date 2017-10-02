@@ -1,5 +1,4 @@
 
-drop database trail;
 
 CREATE DATABASE walnut
   WITH OWNER = jeffstrickler
